@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: a52a46a89b653244db26e28166c42efa
+timeCreated: 1437095546
+licenseType: Pro
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - groanSound: {fileID: 8300000, guid: b6b665b27afeb7b4686872f5d7ded998, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

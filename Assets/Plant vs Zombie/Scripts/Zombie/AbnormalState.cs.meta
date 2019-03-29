@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 0b80f7fff71ad2f488f5c6b5515bfa63
+timeCreated: 1436609578
+licenseType: Pro
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - icetrap: {fileID: 116834, guid: 16227ab46e49ee94398b781806c913df, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

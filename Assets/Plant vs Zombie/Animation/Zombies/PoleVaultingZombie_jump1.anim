@@ -1,0 +1,90 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!74 &7400000
+AnimationClip:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: PoleVaultingZombie_jump1
+  serializedVersion: 6
+  m_Legacy: 0
+  m_Compressed: 0
+  m_UseHighQualityCurve: 1
+  m_RotationCurves: []
+  m_CompressedRotationCurves: []
+  m_PositionCurves: []
+  m_ScaleCurves: []
+  m_FloatCurves: []
+  m_PPtrCurves:
+  - curve:
+    - time: 0
+      value: {fileID: 21300000, guid: 3bba37cbdbfe6514dbd64ee71d0fd1b7, type: 3}
+    - time: .100000001
+      value: {fileID: 21300000, guid: e5b0c0da67d27394789dfd3a25b82997, type: 3}
+    - time: .200000003
+      value: {fileID: 21300000, guid: 5dd48dd6e585f9449b5261840f1bb2d5, type: 3}
+    - time: .300000012
+      value: {fileID: 21300000, guid: 06947cf33c280ef448ea0663d57c15a3, type: 3}
+    - time: .400000006
+      value: {fileID: 21300000, guid: 2477bcef95c68b64e8fa34cd75f0f122, type: 3}
+    - time: .5
+      value: {fileID: 21300000, guid: f146847ca24f30348a10e75621db7e1e, type: 3}
+    - time: .600000024
+      value: {fileID: 21300000, guid: 47666c509849c534eaf55e05c6e158b6, type: 3}
+    - time: .699999988
+      value: {fileID: 21300000, guid: 27197bedf9506ed4c94ff02a940ca836, type: 3}
+    - time: .800000012
+      value: {fileID: 21300000, guid: 13c6aa42c2500be4692229a1b252b583, type: 3}
+    - time: .899999976
+      value: {fileID: 21300000, guid: 7691a5a8a80bcca4e982f6af1910f9ba, type: 3}
+    attribute: m_Sprite
+    path: 
+    classID: 212
+    script: {fileID: 0}
+  m_SampleRate: 10
+  m_WrapMode: 0
+  m_Bounds:
+    m_Center: {x: 0, y: 0, z: 0}
+    m_Extent: {x: 0, y: 0, z: 0}
+  m_ClipBindingConstant:
+    genericBindings:
+    - path: 0
+      attribute: 0
+      script: {fileID: 0}
+      classID: 212
+      customType: 23
+      isPPtrCurve: 1
+    pptrCurveMapping:
+    - {fileID: 21300000, guid: 3bba37cbdbfe6514dbd64ee71d0fd1b7, type: 3}
+    - {fileID: 21300000, guid: e5b0c0da67d27394789dfd3a25b82997, type: 3}
+    - {fileID: 21300000, guid: 5dd48dd6e585f9449b5261840f1bb2d5, type: 3}
+    - {fileID: 21300000, guid: 06947cf33c280ef448ea0663d57c15a3, type: 3}
+    - {fileID: 21300000, guid: 2477bcef95c68b64e8fa34cd75f0f122, type: 3}
+    - {fileID: 21300000, guid: f146847ca24f30348a10e75621db7e1e, type: 3}
+    - {fileID: 21300000, guid: 47666c509849c534eaf55e05c6e158b6, type: 3}
+    - {fileID: 21300000, guid: 27197bedf9506ed4c94ff02a940ca836, type: 3}
+    - {fileID: 21300000, guid: 13c6aa42c2500be4692229a1b252b583, type: 3}
+    - {fileID: 21300000, guid: 7691a5a8a80bcca4e982f6af1910f9ba, type: 3}
+  m_AnimationClipSettings:
+    serializedVersion: 2
+    m_StartTime: 0
+    m_StopTime: 1
+    m_OrientationOffsetY: 0
+    m_Level: 0
+    m_CycleOffset: 0
+    m_LoopTime: 0
+    m_LoopBlend: 0
+    m_LoopBlendOrientation: 0
+    m_LoopBlendPositionY: 0
+    m_LoopBlendPositionXZ: 0
+    m_KeepOriginalOrientation: 0
+    m_KeepOriginalPositionY: 1
+    m_KeepOriginalPositionXZ: 0
+    m_HeightFromFeet: 0
+    m_Mirror: 0
+  m_EditorCurves: []
+  m_EulerEditorCurves: []
+  m_HasGenericRootTransform: 0
+  m_HasMotionFloatCurves: 0
+  m_GenerateMotionCurves: 0
+  m_Events: []

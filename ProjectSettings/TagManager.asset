@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - SunFlower
+  - SnowBullet
+  - PeaBullet
+  - UnableJump
+  - UnableSell
+  - FumeShroom
+  - Repeater
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: L1
+    uniqueID: 18855887
+    locked: 0
+  - name: L2
+    uniqueID: 2312477603
+    locked: 0
+  - name: Sun
+    uniqueID: 4126642931
+    locked: 0
+  - name: Level
+    uniqueID: 4016135269
+    locked: 0

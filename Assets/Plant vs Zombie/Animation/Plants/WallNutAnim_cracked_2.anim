@@ -1,0 +1,105 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!74 &7400000
+AnimationClip:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: WallNutAnim_cracked_2
+  serializedVersion: 6
+  m_Legacy: 0
+  m_Compressed: 0
+  m_UseHighQualityCurve: 1
+  m_RotationCurves: []
+  m_CompressedRotationCurves: []
+  m_PositionCurves: []
+  m_ScaleCurves: []
+  m_FloatCurves: []
+  m_PPtrCurves:
+  - curve:
+    - time: 0
+      value: {fileID: 21300000, guid: 776bc8d607b01da48860c5d837365d99, type: 3}
+    - time: .100000001
+      value: {fileID: 21300000, guid: 7dca57db85b7d564cad7a256c5979880, type: 3}
+    - time: .200000003
+      value: {fileID: 21300000, guid: cfc690eae3407d94cb1bd755ec041d6b, type: 3}
+    - time: .300000012
+      value: {fileID: 21300000, guid: 44276ce5245d7ee428c1ce0307113a5e, type: 3}
+    - time: .400000006
+      value: {fileID: 21300000, guid: 9ac4ca48692bcb641ab12d9096982250, type: 3}
+    - time: .5
+      value: {fileID: 21300000, guid: c7628765a79fcc64b96fb72fae21d99f, type: 3}
+    - time: .600000024
+      value: {fileID: 21300000, guid: ff8f35e333552bb4c8df7c006c0eb0d4, type: 3}
+    - time: .699999988
+      value: {fileID: 21300000, guid: 76f74ef97d530e74b954c5a5e3d3a487, type: 3}
+    - time: .800000012
+      value: {fileID: 21300000, guid: 9872fa49cece0494ab2d79d12df0c735, type: 3}
+    - time: .899999976
+      value: {fileID: 21300000, guid: d5947f1c78d91f94592e4640258afad6, type: 3}
+    - time: 1
+      value: {fileID: 21300000, guid: 244fca5b6c481234a8237065a2f40ab2, type: 3}
+    - time: 1.10000002
+      value: {fileID: 21300000, guid: ddbbe37f5d9622d47b1badc8a81653db, type: 3}
+    - time: 1.20000005
+      value: {fileID: 21300000, guid: 62357e3305026f542ab2780af894e70f, type: 3}
+    - time: 1.29999995
+      value: {fileID: 21300000, guid: 479bf6d34a0a5b446854a84197772de4, type: 3}
+    - time: 1.39999998
+      value: {fileID: 21300000, guid: 5dcc3e68eb62b9d498773745f09ad1d1, type: 3}
+    attribute: m_Sprite
+    path: 
+    classID: 212
+    script: {fileID: 0}
+  m_SampleRate: 10
+  m_WrapMode: 0
+  m_Bounds:
+    m_Center: {x: 0, y: 0, z: 0}
+    m_Extent: {x: 0, y: 0, z: 0}
+  m_ClipBindingConstant:
+    genericBindings:
+    - path: 0
+      attribute: 0
+      script: {fileID: 0}
+      classID: 212
+      customType: 23
+      isPPtrCurve: 1
+    pptrCurveMapping:
+    - {fileID: 21300000, guid: 776bc8d607b01da48860c5d837365d99, type: 3}
+    - {fileID: 21300000, guid: 7dca57db85b7d564cad7a256c5979880, type: 3}
+    - {fileID: 21300000, guid: cfc690eae3407d94cb1bd755ec041d6b, type: 3}
+    - {fileID: 21300000, guid: 44276ce5245d7ee428c1ce0307113a5e, type: 3}
+    - {fileID: 21300000, guid: 9ac4ca48692bcb641ab12d9096982250, type: 3}
+    - {fileID: 21300000, guid: c7628765a79fcc64b96fb72fae21d99f, type: 3}
+    - {fileID: 21300000, guid: ff8f35e333552bb4c8df7c006c0eb0d4, type: 3}
+    - {fileID: 21300000, guid: 76f74ef97d530e74b954c5a5e3d3a487, type: 3}
+    - {fileID: 21300000, guid: 9872fa49cece0494ab2d79d12df0c735, type: 3}
+    - {fileID: 21300000, guid: d5947f1c78d91f94592e4640258afad6, type: 3}
+    - {fileID: 21300000, guid: 244fca5b6c481234a8237065a2f40ab2, type: 3}
+    - {fileID: 21300000, guid: ddbbe37f5d9622d47b1badc8a81653db, type: 3}
+    - {fileID: 21300000, guid: 62357e3305026f542ab2780af894e70f, type: 3}
+    - {fileID: 21300000, guid: 479bf6d34a0a5b446854a84197772de4, type: 3}
+    - {fileID: 21300000, guid: 5dcc3e68eb62b9d498773745f09ad1d1, type: 3}
+  m_AnimationClipSettings:
+    serializedVersion: 2
+    m_StartTime: 0
+    m_StopTime: 1.5
+    m_OrientationOffsetY: 0
+    m_Level: 0
+    m_CycleOffset: 0
+    m_LoopTime: 1
+    m_LoopBlend: 0
+    m_LoopBlendOrientation: 0
+    m_LoopBlendPositionY: 0
+    m_LoopBlendPositionXZ: 0
+    m_KeepOriginalOrientation: 0
+    m_KeepOriginalPositionY: 1
+    m_KeepOriginalPositionXZ: 0
+    m_HeightFromFeet: 0
+    m_Mirror: 0
+  m_EditorCurves: []
+  m_EulerEditorCurves: []
+  m_HasGenericRootTransform: 0
+  m_HasMotionFloatCurves: 0
+  m_GenerateMotionCurves: 0
+  m_Events: []
